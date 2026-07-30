@@ -1,1 +1,5 @@
-
+hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa8.api3-max.ru:443/?sni=wopa8.api3-max.ru#Lite%20%40FreeCFGHub%20%F0%9F%87%AC%F0%9F%87%A7
+hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443/?sni=wopa9.api3-max.ru#Lite%20%40FreeCFGHub%20%F0%9F%87%BA%F0%9F%87%B8
+hy2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/?sni=fr2.h2corp.org#Lite%20%40FreeCFGHub%20%F0%9F%87%B2%F0%9F%87%A9
+hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443/?sni=taga9.api3-max.ru#Lite%20%40FreeCFGHub%20%F0%9F%87%AC%F0%9F%87%A7
+hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443/?sni=nederland.gamestocke.ru#Lite%20%40FreeCFGHub%20%F0%9F%87%AC%F0%9F%87%A7
